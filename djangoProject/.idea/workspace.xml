@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15bf6b5d-dcff-4bfd-ad1f-3ac31b832c25" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/djangoProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartsapp/cartmanager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartsapp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartsapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartsapp/templates/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartsapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoProject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoProject/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoProject/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoProject/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoProject/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goodsapp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goodsapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goodsapp/templates/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goodsapp/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goodsapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/10_0RIywDD.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/10_1OVaH2E.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/10_5jDjWzb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/10_8H4hKoc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/10_Gs7AS8Z.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/10_MBQOH1D.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/10_MeWXSKs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/10_TmP9DXa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/10_gn66t3j.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/10_k9f1eEK.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/10_o3nc5fU.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/10_vonnLjk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/10_w27K7NE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/10_w9OXfoC.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/10_woLP7jo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/10_yG5bZ6x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/10_yXoBnL0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/1_0IilSTS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/1_DNiW0D5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/1_EPbLlsh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/1_NMUUNXC.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/1_ORTzeTY.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/1_QoLgPlj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/1_Rqdz7U7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/1_VJ7ZAQ6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/1_X1vUHuX.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/1_YVRqAfG.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/1_bmqDR3N.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/1_elE8eIp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/1_f8GP2Js.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/1_hYKWHNU.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/1_lCofK1Q.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/1_mfc1bTY.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/1_mpwtoGA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/1_oeshNKk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/1_qhSeLSP.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/1_v57UFo5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/1_vXCGxCI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/2_4vn9XVx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/2_54gKgQP.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/2_72CrUqv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/2_CG1HTi2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/2_GohidDO.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/2_HG8qNBO.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/2_Ouot4Pr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/2_RbgTYId.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/2_T1EYNmq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/2_UuQkY4b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/2_dU6RLKQ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/2_eHi0Rix.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/2_fN7fXqT.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/2_iQ7dNj1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/2_lHY8mE9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/2_mewqiym.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/2_nT3X3Gi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/2_rJP2AdH.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/2_rQvH5hc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/2_w4cxzhY.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/2_wyGJ4ta.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/3_1CyOSyR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/3_2e1cWcs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/3_8WGGwE5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/3_C9361FH.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/3_D1iL18X.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/3_FVVk5kE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/3_GiFc4gk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/3_Gz1jfea.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/3_LrJ1TCJ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/3_M5MK3Rp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/3_NNxcobt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/3_T3najRK.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/3_T5aiJXo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/3_U55lgsP.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/3_ViMgWv6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/3_aDwC2Ql.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/3_eLYKeSJ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/3_eNxYhCr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/3_gQdONuG.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/3_mFj1A5X.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/3_sQci5N1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/4_0490Pq4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/4_7T0yj4F.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/4_BDmgdFv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/4_BprQkfJ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/4_D0ck80V.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/4_EzoxL21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/4_H23ayWL.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/4_I75CkJ3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/4_IBO3QkF.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/4_KPjviHC.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/4_LNKrlRN.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/4_LOhSXlh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/4_Qsb0wFi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/4_Rj4l1L8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/4_VYfCSBP.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/4_Zn7OFjf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/4_i3s0HY6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/4_m2QcMFM.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/4_mwUqQ7u.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/4_ppO44fs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/4_t8f1jLp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/5_23MIkpl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/5_3tIgCS6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/5_8L7yPar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/5_AOfqMfX.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/5_DI2p1Wl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/5_KdbwcPL.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/5_NjssJjH.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/5_OEepnkc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/5_Rewgb01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/5_SGzSxZZ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/5_bxMyxv5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/5_fjAcCOl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/5_gk51Yc1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/5_j9H6NUg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/5_m3BYUyr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/5_o83wrz9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/5_ozWIsej.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/5_pnAqZij.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/5_qHsL809.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/5_qsc95lP.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/5_z6JRqPe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/6_0yvtHsK.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/6_7stuZRI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/6_96JhJlq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/6_CmqXZLW.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/6_ECsXNEg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/6_EXgGQLK.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/6_Jyvt0gV.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/6_KN6SOts.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/6_LE1Qg19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/6_MNo76Wb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/6_Pny8yTQ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/6_TJDGChY.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/6_UAGLwbX.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/6_Xaip1y1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/6_Z4j72Ft.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/6_a6urQrM.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/6_li3hJqN.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/6_mJhhcKP.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/6_om0yrNS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/6_q3Kpy4T.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/6_ze76f9K.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/7_3QbFC0z.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/7_4JyLPNO.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/7_6Wq1Bgx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/7_7RVZFif.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/7_7pnv5eG.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/7_7vLJg1T.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/7_88GAaTo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/7_9VDJMAo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/7_F6hIwWB.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/7_K4tB09L.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/7_MEUf1z0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/7_NKEyR9K.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/7_OyIqVRu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/7_Sv0tWHZ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/7_WB2mznP.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/7_Wj7Dhuj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/7_XOIrJSq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/7_eNtOUP3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/7_lJD2O84.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/7_lK1M9SF.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/7_va0yr9Y.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/8_60MJMwS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/8_7HnFJUe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/8_7L4e40W.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/8_B13UoeN.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/8_BaXff43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/8_KtL5Rj0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/8_MDhSM1I.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/8_OQGcrwL.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/8_R2uMfUz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/8_TM4De6X.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/8_VX32aT2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/8_W5zUBfp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/8_ZqFUlsq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/8_a2kJabS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/8_aIKJvFt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/8_dDvDZt3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/8_dwmGQq1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/8_egWx7Pl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/8_gRR4RHz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/8_zaePCtI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/9_8YomGSk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/9_AexcCbE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/9_BUoWkrL.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/9_CwxVXnR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/9_D7uVd9z.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/9_HN634xt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/9_IVxniTc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/9_InpWyDb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/9_JJPOi3d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/9_Py3cDKv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/9_SZ0wMpy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/9_TW7TlmY.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/9_YhUmuWF.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/9_e0PyyUN.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/9_gLF6TGo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/9_x8mkplo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/9_yFn3P2g.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/9_zDqfKRE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/Penguins.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/Lighthouse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/bai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/bai_B7tmsjh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/bai_mt1VrH5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/ban.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/ban_fSqFE03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/h_2og4uJv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/hei.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/hei_1d7yrVm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/hei_3vOTo3s.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/hei_JeBWGjF.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/hei_LfSKcUV.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/hei_ZyxMfgc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/hei_cOOnNKI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/hei_goVnbhs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/hei_kYyKPNv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/hei_rFOWelp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/hei_sNOao2p.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/hong.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/hong_4FhJTrJ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/hong_Dm4fQ6U.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/hong_UO2LzHh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/hong_nwQGdMd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/hong_y7wQwRw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/hong_zHPXVqY.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/hongse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/huang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/huang_NKcgOlT.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/huang_bvCMlhn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/hui.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/ju.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/lan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/lan_7rd4yDs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/lan_BKQdpOj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/lan_ELubwxG.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/lan_IThSO4Z.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/lv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/lv_H5hkmmq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/lv_cTMJg2K.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/lv_eFlravj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/lv_sxlJZTq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/san.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/zi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/zi_umktLLD.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/zong.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/color/zong_v7JDaAc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderapp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderapp/templates/order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/css/addstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/css/admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/css/amazeui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/css/amazeui.flat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/css/amazeui.flat.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/css/amazeui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/css/personal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/i/app-icon72x72@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/i/examples/admin-chrome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/i/examples/admin-firefox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/i/examples/admin-ie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/i/examples/admin-opera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/i/examples/admin-safari.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/i/examples/adminPage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/i/examples/blogPage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/i/examples/landing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/i/examples/landingPage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/i/examples/loginPage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/i/examples/sidebarPage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/i/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/i/startup-640x1096.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/images/addicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/images/addicon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/images/addicon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/images/cardbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/images/cardtype.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/images/extra.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/images/peraddbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/images/peraddressbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/js/amazeui.ie8polyfill.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/js/amazeui.ie8polyfill.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/js/amazeui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/js/amazeui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/js/amazeui.widgets.helper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/js/amazeui.widgets.helper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/js/handlebars.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/carts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/detail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/mygxin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/proList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/public.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/10_vonnLjk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/1_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/1_09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/1_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/1_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/1_mpwtoGA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/2_UuQkY4b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/3_ViMgWv6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/4_BDmgdFv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/5_ozWIsej.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/6_Pny8yTQ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/7_K4tB09L.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/8_60MJMwS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/9_8YomGSk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/B5_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/B5_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/bai_mt1VrH5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/detail_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/detail_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/gxin1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/gxin2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/hei_kYyKPNv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/hei_rFOWelp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/hong_Dm4fQ6U.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/hong_y7wQwRw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/hong_zHPXVqY.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/huang_bvCMlhn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/hui.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/jia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ju.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/lan_BKQdpOj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/lan_ELubwxG.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/lan_IThSO4Z.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/login_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/lv_H5hkmmq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/lv_cTMJg2K.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/lv_sxlJZTq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/recommend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/way01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/way02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/way03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/carts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/md5-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/pro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/public.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userapp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userapp/migrations/0002_alter_userinfo_pwd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userapp/mycontextprocessor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userapp/templates/address.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userapp/templates/center.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userapp/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userapp/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/Arial.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/jiukuaijiu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/loaddata.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/goodsapp/templates/index.html" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/utils/ceshi.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2f0PT7biBqdBz9VmhqeIQ8fc9XQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Django Server.djangoProject.executor&quot;: &quot;Run&quot;,
+    &quot;Django 服务器.djangoProject.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.generated-requests中的所有.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ceshi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loaddata.executor&quot;: &quot;Run&quot;,
+    &quot;Python.manage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.models.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.pycharm.django.structure.promotion.once.per.project&quot;: &quot;true&quot;,
+    &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR_AND_PREVIEW&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/shopping/djangoProject/cartsapp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;typescript.add.unambiguous.imports.on.the.fly&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: []
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\shopping\djangoProject\cartsapp" />
+      <recent name="E:\shopping\djangoProject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\shopping\djangoProject" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <myKeys>
+      <visibility group="Grunt" flag="true" />
+      <visibility group="Gulp" flag="true" />
+      <visibility group="HTTP 请求" flag="true" />
+      <visibility group="Node.js" flag="true" />
+      <visibility group="Recent projects" flag="true" />
+      <visibility group="Run configurations" flag="true" />
+      <visibility group="npm" flag="true" />
+      <visibility group="yarn" flag="true" />
+      <visibility group="最近的项目" flag="true" />
+      <visibility group="运行 Python 文件" flag="true" />
+      <visibility group="运行 conda 命令" flag="true" />
+      <visibility group="运行 pip 命令" flag="true" />
+      <visibility group="运行配置" flag="true" />
+    </myKeys>
+  </component>
+  <component name="RunManager" selected="Python.ceshi">
+    <configuration name="generated-requests中的所有" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http">
+      <method v="2" />
+    </configuration>
+    <configuration name="ceshi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="djangoProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/ceshi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loaddata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="djangoProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/loaddata.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="djangoProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="djangoProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/goodsapp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/goodsapp/models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="djangoProject" type="Python.DjangoServer" factoryName="Django server" singleton="false">
+      <module name="djangoProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="djangoProject.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.10 (djangoProject)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django 服务器.djangoProject" />
+      <item itemvalue="HTTP 请求.generated-requests中的所有" />
+      <item itemvalue="Python.ceshi" />
+      <item itemvalue="Python.loaddata" />
+      <item itemvalue="Python.manage" />
+      <item itemvalue="Python.models" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.models" />
+        <item itemvalue="Python.manage" />
+        <item itemvalue="Python.loaddata" />
+        <item itemvalue="Python.ceshi" />
+        <item itemvalue="HTTP 请求.generated-requests中的所有" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15bf6b5d-dcff-4bfd-ad1f-3ac31b832c25" name="Changes" comment="" />
+      <created>1712935026398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712935026398</updated>
+      <workItem from="1712935027774" duration="1888000" />
+      <workItem from="1713244957288" duration="43000" />
+      <workItem from="1713245491913" duration="11690000" />
+      <workItem from="1713257795327" duration="5699000" />
+      <workItem from="1713283992228" duration="569000" />
+      <workItem from="1713284593841" duration="2088000" />
+      <workItem from="1713287014797" duration="1880000" />
+      <workItem from="1713288929634" duration="81000" />
+      <workItem from="1713290056031" duration="853000" />
+      <workItem from="1713291360037" duration="206000" />
+      <workItem from="1713291620773" duration="1147000" />
+      <workItem from="1713327086965" duration="23852000" />
+      <workItem from="1713419796851" duration="18234000" />
+      <workItem from="1713503915588" duration="2139000" />
+      <workItem from="1713506614367" duration="1159000" />
+      <workItem from="1713507872032" duration="773000" />
+      <workItem from="1713508666516" duration="273000" />
+      <workItem from="1713508994806" duration="279000" />
+      <workItem from="1713509328585" duration="31975000" />
+      <workItem from="1713599312447" duration="3095000" />
+      <workItem from="1713678677676" duration="7340000" />
+      <workItem from="1713764762485" duration="18947000" />
+      <workItem from="1713852297293" duration="15228000" />
+      <workItem from="1715442131353" duration="3669000" />
+      <workItem from="1715850435525" duration="1453000" />
+      <workItem from="1715924144323" duration="13191000" />
+      <workItem from="1716311571822" duration="13194000" />
+      <workItem from="1716348080117" duration="946000" />
+      <workItem from="1716349044929" duration="349000" />
+      <workItem from="1716349582675" duration="4839000" />
+      <workItem from="1716560319137" duration="36000" />
+      <workItem from="1716602732168" duration="67000" />
+      <workItem from="1716605552539" duration="1397000" />
+      <workItem from="1716711025087" duration="1788000" />
+      <workItem from="1738948627541" duration="343000" />
+      <workItem from="1751285990207" duration="197000" />
+      <workItem from="1751286207847" duration="247000" />
+      <workItem from="1751286473246" duration="1597000" />
+      <workItem from="1751288414484" duration="465000" />
+      <workItem from="1751288897710" duration="224000" />
+      <workItem from="1751289135816" duration="105000" />
+      <workItem from="1751364769878" duration="257000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/djangoProject$__init__.coverage" NAME="__init__ 覆盖结果" MODIFIED="1716711420750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/djangoProject$loaddata.coverage" NAME="loaddata Coverage Results" MODIFIED="1713257703486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/djangoProject$manage.coverage" NAME="manage 覆盖结果" MODIFIED="1713287379529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/djangoProject$models.coverage" NAME="models 覆盖结果" MODIFIED="1713287146856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/goodsapp" />
+  </component>
+</project>
